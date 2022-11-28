@@ -142,3 +142,18 @@ body {
   float: left; 
   width: calc(100% - 350px - 10px); 
 } 
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centertwo {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centerthree {
+  margin-left: auto;
+  margin-right: auto;
+}
